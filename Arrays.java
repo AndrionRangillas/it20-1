@@ -3,28 +3,11 @@ public class Arrays {
 
     public static void main(String[] args) {
         
-       char[][] prac = {
-           {'*','*','*','*','*'},
-           {'*','*','*','*','*'},  
-           {'*','*','*','*','*'},
-           {'*','*','*','*','*'},
-           {'*','*','*','*','*'},
-                
-           };      
-                 
-        for (int i=0; i <prac.length; i++){
-         System.out.println(); 
-            for (int j=0;j< prac[i].length; j++) {
-                System.out.print(prac[i][j]);   
- 
-            }
+       int[] simpleArray = {1, 2, 3, 4, 5};
+        System.out.println("Simple Array: ");
+        for (int i : simpleArray) {
+            System.out.print(i + " ");
         }
     }
 }
-       
-        
-          
-        
-
-    
 
