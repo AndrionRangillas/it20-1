@@ -1,5 +1,5 @@
 package topic_2_linkedlist_int;
-
+//it20
 import java.util.Scanner;
 
 public class Main {
