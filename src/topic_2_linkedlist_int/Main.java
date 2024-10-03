@@ -1,7 +1,7 @@
 package topic_2_linkedlist_int;
 
 import java.util.Scanner;
-
+//hello
 public class Main {
     //Scanner and Linkedlist object
     public static Scanner sc = new Scanner(System.in);
